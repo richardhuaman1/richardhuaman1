@@ -10,6 +10,6 @@
 
 ### Github Stats
 
-![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardhuaman1&theme=vision-friendly-dark&show_icons=true&hide=prs,issues,contribs)
+![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardhuaman1&theme=slateorange&show_icons=true&hide=prs,issues,contribs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardhuaman1&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardhuaman1&layout=compact&theme=slateorange)
