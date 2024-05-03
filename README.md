@@ -4,7 +4,7 @@
 <!-- ### Socials -->
 
 <p align="center">
-  <a href="https://twitter.com/richardhuaman.dev" target="blank">
+  <a href="https://twitter.com/richardhuaman.dev" target="_blank">
     <img src="https://img.shields.io/badge/follow-%40richardhuaman.dev-000000?logo=x&style=for-the-badge" alt="richardhuaman.dev" />
   </a>
   <!-- <a href="https://github.com/richardhuaman1/richardhuaman1/issues">
